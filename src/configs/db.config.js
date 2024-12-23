@@ -24,4 +24,4 @@ const seqelizeConnect = async () => {
 seqelizeConnect();
 
 export default sequelize;
-#test
+
